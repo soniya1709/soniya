@@ -1,0 +1,11 @@
+package javabasics;
+
+public class Charconversion {
+
+	public static void main(String[] args) {
+		
+		System.out.println('a'+3);
+	   System.out.println(3+'a');
+	}
+	
+}
