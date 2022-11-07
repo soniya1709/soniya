@@ -18,6 +18,7 @@ public class B extends A
 {
 public static void main(String args[])
 {
+System.out.println("Inside main method");
 	B b=new B();
 	b.print();
 	b.show();
