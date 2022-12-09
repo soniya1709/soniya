@@ -7,7 +7,7 @@ public class Charconversion {
 		System.out.println('a'+3);
 	   System.out.println(3+'a');
 	   
-	   System.out.println("soniya creation");
+	   
 	   
 	}
 	
