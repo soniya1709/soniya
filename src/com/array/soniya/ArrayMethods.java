@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class ArrayMethods 
 {
 public static void main(String[] args) {
+	System.out.println("inside main meyhod");
 	int[] array= {1,3,2,6,4,5,8,9,12,13,24};
 	int[] array1= {1,2,4,3,5,6};
 	
